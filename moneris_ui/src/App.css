@@ -1,0 +1,56 @@
+* {
+  /* margin: auto; */
+  /* margin-left: 40px; */
+  padding: 0;
+}
+
+.outer-page {
+  margin-top: 40px;
+  height: 80px;
+}
+
+.App {
+  /* color: #ccf7ff; */
+  color: #282c34;
+  display: flex;
+  flex-direction: column;
+}
+
+.monerisFrame {
+  width: 75%;
+  height: 100%;
+  border: 2px solid grey;
+  margin-bottom: 8px;
+}
+
+.pay-btn {
+  width: 75%;
+}
+.iframe-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.google-pay {
+  margin-top: 40px;
+}
+
+.google-pay .gpay-button.long {
+  width: 75%;
+}
+
+#moneris-google-pay {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.transaction-success {
+  text-align: center;
+  color: #1a5c28d8;
+}
