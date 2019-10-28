@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>monca03956</store_id>
+  <api_token>Q8QMBRFHdCZcmJwHzFwz</api_token>
+  <res_preauth_cc>
+    <order_id>Test1572299554029-2253</order_id>
+    <amount>50.81</amount>
+    <data_key>ot-qNZxJcejunyyF0725QpnGXmp4</data_key>
+    <crypt_type>7</crypt_type>
+    <cust_id>ready-player-2419</cust_id>
+  </res_preauth_cc>
+</request>

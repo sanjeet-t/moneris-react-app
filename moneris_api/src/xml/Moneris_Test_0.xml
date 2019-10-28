@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <request>
+      <store_id>store5</store_id>
+      <api_token>yesguy</api_token>
+      <googlepay_purchase>
+        <order_id>moneris20191007_004</order_id>
+        <amount>1.00</amount>
+        <network>VISA</network>
+        <payment_token>
+          <signature>MEUCIG01mP/uigO7x6JXzM0vN88n6c4rJSpJvNYAfk/786FbAiEA46sWnCt9E3nmrdyq0wYHY/Pnf8/ditLIXvwJF3fcnt4=</signature>
+          <protocol_version>ECv1</protocol_version>
+          <signed_message>{"encryptedMessage":"JYFwlr8tUoRt1mTzjggAvfoRBG53hBhXYkPMGOEFWpAhj/J8exc4KnKx72hQSfrvnhShk1HpWT5eI4VlDsF9dHMDSHT/cQEoSVNI92j+y9bu7UfItY25Woa9iNz2JVce6FtQjWOvH01loOySe/6ohhP8fIHGRX38pjZlmQ0bgyiL9RatGT3JS0Q+DA/4QDBwPEfI2Qqjfh6xfVmdBJeHuqnh3aNiYbL5bJuI40jAZ5hnFpMsseNRvJ4frcPo4SNZkMw1svMzDORKxbFaU7HPpi34Bbj9cHbMhC5I52urxWxOIn61w/LkkWSi2/JJUEw2383OHwpoAMhZlhs4+hRuJpputch8CgQpW31/CSDYGXICs9w90EyCS7AcwmF/cLGZ5wXNrPHnOJLzKGLAz2njZrgQBWA8sCQjwXdJzIhkQ9aFvqjBxcsLo8q6oRjlRD4Fmw\\u003d\\u003d","ephemeralPublicKey":"BPIRPd1lk12uB1LPZPi7jUJErcK79nQDXmGkY3G6Vw7bLtR9KanqYccitpqvU53ozvv1RQdtWTNJVhcVypyISzQ\\u003d","tag":"0UJiLKl4Pwok6eM0QWwceTJ3dpynxGAjriPaoyc0iYo\\u003d"}</signed_message>
+        </payment_token>
+      </googlepay_purchase>
+    </request>

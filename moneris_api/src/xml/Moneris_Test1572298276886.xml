@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>monca03956</store_id>
+  <api_token>Q8QMBRFHdCZcmJwHzFwz</api_token>
+  <refund>
+    <order_id>Test1572298227697-794</order_id>
+    <amount>50.81</amount>
+    <txn_number>648-1_14</txn_number>
+    <crypt_type>1</crypt_type>
+  </refund>
+</request>

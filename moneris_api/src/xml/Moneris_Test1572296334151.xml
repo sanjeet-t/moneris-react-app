@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>monca03956</store_id>
+  <api_token>Q8QMBRFHdCZcmJwHzFwz</api_token>
+  <completion>
+    <order_id>null</order_id>
+    <amount>NaN</amount>
+    <txn_number>null</txn_number>
+    <crypt_type>1</crypt_type>
+  </completion>
+</request>

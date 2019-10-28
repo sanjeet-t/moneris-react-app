@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>monca03956</store_id>
+  <api_token>Q8QMBRFHdCZcmJwHzFwz</api_token>
+  <googlepay_preauth>
+    <order_id>GooglePayTest1572288493115</order_id>
+    <amount>1.00</amount>
+    <payment_token>
+      <signature>MEUCIQDcIwMSSLSYmPA/p8q5fgVUK6BaB0dmY/Uz8HW8XSdaMQIgM6Lm5lTmV1cUknfKbIfF5umSarHZgvwHxmAOchC9yWg=</signature>
+      <protocol_version>ECv1</protocol_version>
+      <signed_message>{"encryptedMessage":"af8zHLSNtixDLk44JKMdFeCnPbBm8AAnoKcRXRZCON4eHCr7Y5KXw4Gz8dmvl2VFdy9+35JhVUVtmAtIaXNJWptDnQWs+vBAVjp7eFMiI6eTC+f/I0bjAIIo81h6WEdyycYnkySr/yo2O8maMDG0yGw26/YoPWd3pa3CcKa/UBbd0w4+kH1w1OvElrD7iVEnTpoCY8Xh4ZJWHKpXPwTFsRYBE+N/qpor50+dP52i7c1IZi/nedEX2/t7cHchrBRkB2th2J6By8CDMxsrWlM34luyOwXJ/Bkh6gVebZMqz9+InCW7TrjwtnmMrq7f0Ri2jdbLGRyHO64uOMQCGBtXt0jMoRB/rvT+90I5DOUuSJR+UZ26igdwQfrz0+BDImVk18Bz2Bf3XrYFOmay/xCJImHH3C9QkFf1uX2ART+Ds7EDJH9aw6aUj8v3N5ovvTigXcPu8rQ\u003d","ephemeralPublicKey":"BMi/iJJvJV7MMfIGdVgE1wKZFl7nE2cOSBTuTTtxzIh8s1+/3AhTJyVnCIYbmSk0ZLDqcSCIoaPXoL5t8uFSfA8\u003d","tag":"VxlL6X1QvxCpAI7VBo9OLTYHEpEksZekwicHwP8jwDM\u003d"}</signed_message>
+    </payment_token>
+    <network>MASTERCARD</network>
+  </googlepay_preauth>
+</request>

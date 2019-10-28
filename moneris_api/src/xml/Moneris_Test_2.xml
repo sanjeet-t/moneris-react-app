@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>store5</store_id>
+  <api_token>yesguy</api_token>
+  <googlepay_preauth>
+    <order_id>GooglePayTest1570514172125</order_id>
+    <amount>1.00</amount>
+    <payment_token>
+      <signature>MEUCIHryqZUkrgn+OgrBcpkBuGznAD5yYnQjuzfCSL35ItAMAiEAp9JsFgOymgDRzbgFN2gtonHxgnBiu3Z8NKf6IqTAfJ8=</signature>
+      <protocol_version>ECv1</protocol_version>
+      <signed_message>{"encryptedMessage":"7NTh4BVP4iCVWS5wlENhNT2wk6kBtW/BUIcqPtltHTFuXJ8AmzChlICid27gK8IxZ0bh4JCoEzr7xeHosW9T4OMUZ2rzrCbqNuTxNVpAoqNm7mccOpZvjsj2xCaNu+sEdoPIlOb0xFeA1MH/q58oNWqLo5zl96U1OKREqw+7WFi9lZSr+K4RzYkRhTtH8dcV2CpIRPuupwBRuYR0RFCncm0u8DwHWZ9PB0pbxhySOglfOlHgbbvlk2Mg3yqXSD8nQ6nr73HMVHuzcWFdi9K2ziqkJT6CyIMeR6eOXx+Wuf3tZKRxaveWR9C9hlTnmckx98XcmN6+aJ2SLH2W+Oy2khq5ft/lQ2mEu+RYPiSI7UlMdDDxRw/w0VHaJ4aYgJ7JDc2gkcQmFTwh3WdzGop4IxnBedPnn+FjTYld4Rf8kkTH7cbbdcb6vHAztWRdF2UeKg\u003d\u003d","ephemeralPublicKey":"BM66UtFFt0BfcPPJFPwbXe+qvyvsio4TtZU9EW8d+5yXqxP+V/xXxEZ8raX5oiPcy8osvo3WCQsM9GQOhBJ4kos\u003d","tag":"uqPjSmHDJrXwPpJLbkM9R0TRXOJsZSGyurrtDOXDGQo\u003d"}</signed_message>
+    </payment_token>
+    <network>MASTERCARD</network>
+  </googlepay_preauth>
+</request>

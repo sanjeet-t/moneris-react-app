@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>store5</store_id>
+  <api_token>yesguy</api_token>
+  <res_preauth_cc>
+    <order_id>Test1570514758148-6000</order_id>
+    <amount>5081.00</amount>
+    <data_key>ot-cmjmzEV7QSNwJVcihdc4Vak74</data_key>
+    <crypt_type>2</crypt_type>
+    <cust_id>ready-player-4337</cust_id>
+  </res_preauth_cc>
+</request>

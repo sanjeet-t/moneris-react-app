@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<request>
+  <store_id>monca03956</store_id>
+  <api_token>Q8QMBRFHdCZcmJwHzFwz</api_token>
+  <completion>
+    <order_id>GooglePayTest1572297321457</order_id>
+    <amount>1.00</amount>
+    <txn_number>643-0_14</txn_number>
+    <crypt_type>1</crypt_type>
+  </completion>
+</request>
